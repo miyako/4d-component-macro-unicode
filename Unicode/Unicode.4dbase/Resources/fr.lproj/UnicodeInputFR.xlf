@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<xliff version="1.0">
+
+  <file datatype="x-STR#" original="undefined" product-version="v11" source-language="en-US" target-language="fr">
+    <header>
+      <note/>
+    </header>
+    <body>
+      <group resname="icu insert combining charcter">
+        <trans-unit id="1" resname="voice marks">
+          <source>voice marks</source>
+          <target>signes vocales</target>
+        </trans-unit>
+        <trans-unit id="2" resname="diacritical marks">
+          <source>diacritical marks</source>
+          <target>signes diacritiques</target>
+        </trans-unit>
+        <trans-unit id="3" resname="half marks">
+          <source>half marks</source>
+          <target>signes moitiés</target>
+        </trans-unit>
+        <trans-unit id="4" resname="symbol marks">
+          <source>symbol marks</source>
+          <target>signes symboles</target>
+        </trans-unit>
+        <trans-unit id="5" resname="Latin-1 Supplement">
+          <source>Latin-1 Supplement</source>
+          <target>Latin-1 supplémentaire</target>
+        </trans-unit>
+        <trans-unit id="6" resname="insert combining character">
+          <source>command+K : insert combining character to text</source>
+          <target>command+K : Insérer un caractère combinant au texte</target>
+        </trans-unit>
+        <trans-unit id="7" resname="insert latin-1 suppliment">
+          <source>command+L : insert Latin-1 supplement to text</source>
+          <target>command+L : insérer Latin-1 supplémentaire au texte</target>
+        </trans-unit>
+        <trans-unit id="8" resname="view property">
+          <source>command+P : view property of selected text</source>
+          <target>command+P : voir la propriété du texte sélectionné</target>
+        </trans-unit>
+        <trans-unit id="8" resname="insert escaped">
+          <source>enter : insert unicode to method - escaped</source>
+          <target>enter : insérer des caractères Unicode - escaped</target>
+        </trans-unit>
+        <trans-unit id="10" resname="insert base64">
+          <source>command+B : insert unicode to method - BASE64</source>
+          <target>command+B : insérer des caractères Unicode - BASE64</target>
+        </trans-unit>	
+        <trans-unit id="11" resname="insert code point">
+          <source>command+U : convert hexadecimal to code point</source>
+          <target>command+U : convertir en hexadécimal à point de code</target>
+        </trans-unit>			
+       </group>
+    </body>
+  </file>
+
+</xliff>

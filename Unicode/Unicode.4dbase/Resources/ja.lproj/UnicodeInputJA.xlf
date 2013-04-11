@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<xliff version="1.0">
+
+  <file datatype="x-STR#" original="undefined" product-version="v11" source-language="en-US" target-language="ja">
+    <header>
+      <note/>
+    </header>
+    <body>
+      <group resname="icu insert combining charcter">
+        <trans-unit id="1" resname="voice marks">
+          <source>voice marks</source>
+          <target>濁音・半濁音</target>
+        </trans-unit>
+        <trans-unit id="2" resname="diacritical marks">
+          <source>diacritical marks</source>
+          <target>アクセント記号</target>
+        </trans-unit>
+        <trans-unit id="3" resname="half marks">
+          <source>half marks</source>
+          <target>ハーフ記号</target>
+        </trans-unit>
+        <trans-unit id="4" resname="symbol marks">
+          <source>symbol marks</source>
+          <target>シンボル記号</target>
+        </trans-unit>		
+        <trans-unit id="5" resname="Latin-1 Supplement">
+          <source>Latin-1 Supplement</source>
+          <target>ラテン文字拡張</target>
+        </trans-unit>
+        <trans-unit id="6" resname="insert combining character">
+          <source>command+K : insert combining character to text</source>
+          <target>command+K : 結合文字を挿入</target>
+        </trans-unit>
+        <trans-unit id="7" resname="insert latin-1 suppliment">
+          <source>command+L : insert Latin-1 supplement to text</source>
+          <target>command+L : ラテン拡張文字を挿入</target>
+        </trans-unit>
+        <trans-unit id="8" resname="view property">
+          <source>command+P : view property of selected text</source>
+          <target>command+P : 選択したテキストのプロパティを表示</target>
+        </trans-unit>
+        <trans-unit id="8" resname="insert escaped">
+          <source>enter : insert unicode to method - escaped</source>
+          <target>enter : Unicodeをメソッドに挿入 - エスケープ</target>
+        </trans-unit>
+        <trans-unit id="10" resname="insert base64">
+          <source>command+B : insert unicode to method - BASE64</source>
+          <target>command+B : Unicodeをメソッドに挿入 - BASE64</target>
+        </trans-unit>	
+        <trans-unit id="11" resname="insert code point">
+          <source>command+U : convert hexadecimal to code point</source>
+          <target>command+U : 16進数をコードポイント文字に変換</target>
+        </trans-unit>																		
+       </group>
+    </body>
+  </file>
+
+</xliff>
